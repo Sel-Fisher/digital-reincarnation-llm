@@ -22,7 +22,7 @@ This project is a prototype of a service for creating a "digital twin" based on 
 
 **1. Clone the repository:**
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Sel-Fisher/digital-reincarnation-llm.git
 cd digital-reincarnation-llm
 ```
 
