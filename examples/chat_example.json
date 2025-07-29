@@ -1,0 +1,10 @@
+{
+  "dialog": [
+    { "speaker": "User1", "content": "Hello! How are you?" },
+    { "speaker": "User2", "content": "I'm fine, thanks. And you?" },
+    { "speaker": "User1", "content": "Not bad either. Great weather today, isn't it?" },
+    { "speaker": "User1", "content": "Maybe we should go for a coffee on a terrace somewhere?" },
+    { "speaker": "User2", "content": "Great idea! I'm in." },
+    { "speaker": "User2", "content": "What time works for you?" }
+  ]
+}
